@@ -28,7 +28,7 @@ To open the repository as a VS Code project, follow these steps:
 
 4. VS Code should display an alert at the bottom right of the window saying "Folder contains a dev container configuration file. Reopen folder to develop in a container". Click "Reopen in Container".  If you don't see this alert, you can open the Command Palette (Ctrl+Shift+P) and run the "Dev Containers: Rebuild and Reopen in Container" command.  
   
-   ![Reopen in Container](_how_to/reopen-in-container.png)
+   ![Reopen in Container](_how-to/dev-container.png)
 
 5. VS Code will now open a new window in a containerized development environment. You can now build the landing page by running the following command in VS Code's built-in terminal:
 
