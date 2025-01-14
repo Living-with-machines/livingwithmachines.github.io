@@ -1,0 +1,5 @@
+.vscode/
+.venv/
+cache/
+book/.quarto
+_site
