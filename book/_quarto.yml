@@ -44,6 +44,16 @@ book:
   # repo-actions: [edit]
   # downloads: [pdf, epub]
   # sharing: [twitter, facebook]
+  # navbar:
+  #   background: primary
+  #   search: true
+  #   left:
+  #     - text: "Home"
+  #       href: index.md
+  #     - text: "Newspapers"
+  #       href: chapters/newspapers/intro.ipynb
+  #     - text: "Maps"
+  #       href: chapters/maps/intro.ipynb
 
 bibliography: references.bib
 
