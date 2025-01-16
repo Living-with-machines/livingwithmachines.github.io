@@ -24,7 +24,7 @@ To open the repository as a VS Code project, follow these steps:
 
 2. Install the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension for Visual Studio Code.
 
-3. Open the repository in Visual Studio Code.
+3. Open the repository in Visual Studio Code. (You can do this by running `code .` in the root of the repository or by cloning the repository using the "Clone Repository in Container Volume" command in the Command Palette (Ctrl+Shift+P)).
 
 4. VS Code should display an alert at the bottom right of the window saying "Folder contains a dev container configuration file. Reopen folder to develop in a container". Click "Reopen in Container".  If you don't see this alert, you can open the Command Palette (Ctrl+Shift+P) and run the "Dev Containers: Rebuild and Reopen in Container" command.  
   
