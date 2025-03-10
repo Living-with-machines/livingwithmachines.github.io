@@ -56,8 +56,11 @@ book:
   #       href: index.md
   #     - text: "Newspapers"
   #       href: chapters/newspapers/intro.ipynb
+  #       href: chapters/newspapers/newspaper-metadata.ipynb
   #     - text: "Maps"
   #       href: chapters/maps/intro.ipynb
+  #     - text: "Census"
+  #       href: chapters/census/census_intro.qmd
 
 bibliography: references.bib
 
