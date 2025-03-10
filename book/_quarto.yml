@@ -25,6 +25,10 @@ book:
     - part: "Newspapers"
       chapters:
         - chapters/newspapers/intro.ipynb
+        - chapters/newspapers/newspaper-metadata.ipynb
+    - part: "Census"
+      chapters:
+        - chapters/census/census_intro.qmd
     - part: "Maps"
       chapters:
         - chapters/maps/intro.ipynb
