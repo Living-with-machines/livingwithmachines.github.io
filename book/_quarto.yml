@@ -1,0 +1,64 @@
+project:
+  type: book
+  output-dir: ../docs
+  preview:
+    browser: false
+
+format:
+  html:
+    cover-image: "_assets/images/understanding-history-with-new-eyes.png"
+    theme: united
+    highlight-style: github
+    code-fold: true
+    code-copy: true
+
+book:
+  title: "Living with Machines"
+  author: "Living with Machines team"
+  date: "1/14/2025"
+  chapters:
+    - index.md
+    - chapters/intro.qmd
+    - part: "About the Living with Machines project"
+      chapters:
+        - chapters/about-the-project/videos.md
+    - part: "Newspapers"
+      chapters:
+        - chapters/newspapers/intro.ipynb
+    - part: "Maps"
+      chapters:
+        - chapters/maps/intro.ipynb
+    - chapters/references.qmd
+  appendices:
+    - appendices/project-summary.qmd
+    - appendices/test-appendix.ipynb
+  page-footer: 
+    left: "" # we can add copyright etc here
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com/ 
+    background: dark
+  repo-url: https://github.com/living-with-machines
+  # repo-actions: [edit]
+  # downloads: [pdf, epub]
+  # sharing: [twitter, facebook]
+  # navbar:
+  #   background: primary
+  #   search: true
+  #   left:
+  #     - text: "Home"
+  #       href: index.md
+  #     - text: "Newspapers"
+  #       href: chapters/newspapers/intro.ipynb
+  #     - text: "Maps"
+  #       href: chapters/maps/intro.ipynb
+
+bibliography: references.bib
+
+brand: _brand.yml
+
+# the below is needed to run in GitHub Actions:
+execute:
+  freeze: auto
