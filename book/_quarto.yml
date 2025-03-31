@@ -29,6 +29,7 @@ book:
     - part: "Census"
       chapters:
         - chapters/census/census_intro.qmd
+        - chapters/census/census_geocoder_addressgb.ipynb
         - chapters/census/combine_census_railspace_stopsgb.ipynb
         - chapters/census/beyond_the_tracks_analysis.ipynb
         - chapters/census/beyond_the_tracks_data_viz.ipynb
