@@ -26,6 +26,9 @@ book:
       chapters:
         - chapters/newspapers/intro.ipynb
         - chapters/newspapers/newspaper-metadata.ipynb
+        - chapters/newspapers/newspaper-pressdirectories.ipynb
+        - chapters/newspapers/newspaper-plms.ipynb
+        - chapters/newspapers/newspaper-llms.ipynb
     - part: "Census"
       chapters:
         - chapters/census/census_intro.qmd
