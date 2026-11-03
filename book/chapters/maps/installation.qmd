@@ -1,2 +1,7 @@
-# How to install MapReader to use these tutorials
+# How to install MapReader to go beyond these tutorials
 
+Code from these tutorials could be reused if you are running MapReader locally or in Colab. However, we recommend turing to the detailed instructions for installation in the MapReader docs depending on how you plan to use MapReader: https://mapreader.readthedocs.io/en/latest/getting-started/installation-instructions/index.html.
+
+Additional example notebooks are available in the mapreader-examples repository: https://github.com/maps-as-data/mapreader-examples. Examples customized for Google Colab are available at https://github.com/maps-as-data/mapreader-workshop.
+
+If you have questions about , find us on the MapReader Slack workspace: https://join.slack.com/t/mapreader-workspace/shared_invite/zt-390jka9tt-yeQLfDbE6nP_8jiQb34iug
