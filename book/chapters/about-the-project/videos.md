@@ -1,14 +1,14 @@
-# Videos
+# Living with Machines DocuSeries
 
 ## On Collaboration
 
 {{< video https://www.youtube.com/watch?v=A__ZJgw4_00 >}}
 
-## The digitisation process
+## The Digitisation Process
 
 {{< video https://www.youtube.com/watch?v=aGF343ketqw >}}
 
-## Computational methods, infrastructure and skills
+## Computational Methods, Infrastructure and Skills
 
 {{< video https://www.youtube.com/watch?v=cmW10eK-ojs >}}
 
@@ -24,11 +24,11 @@
 
 {{< video https://www.youtube.com/watch?v=iTKPsV_FQW0 >}}
 
-## Beyond the tracks
+## Beyond the Tracks
 
 {{< video https://www.youtube.com/watch?v=HTgNLI-3lJA >}}
 
-## Census data
+## Census Data
 
 {{< video https://www.youtube.com/watch?v=F7QT8QVs3Ic >}}
 
